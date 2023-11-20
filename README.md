@@ -1,4 +1,4 @@
-<a href="https://www.instagram.com/hyu_ni1">
+<a href="https://www.instagram.com/hyu_ni1_">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
 </a>
 
