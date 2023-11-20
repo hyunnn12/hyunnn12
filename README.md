@@ -1,7 +1,6 @@
 <a href="https://www.instagram.com/hyu_ni1_">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-E74143?style=flat-square&logo=instagram&logoColor=white"/>
 </a>
-
 
 # 배움에는 끝이 없다고 생각하는 개발자 강현입니다.👋 
 <!--
