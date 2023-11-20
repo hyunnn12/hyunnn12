@@ -1,4 +1,4 @@
-# 배움에는 끝이 없다고 생각하는 개발자 강현입니다.👋 😄
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 
 **Contact**
 
