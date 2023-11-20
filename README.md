@@ -1,6 +1,6 @@
 # 배움에는 끝이 없다고 생각하는 개발자 강현입니다.👋 😄
 
-<p style="font-size:20px;">Contact</p>
+<p style="font-size:50px;">Contact</p>
 <a href="https://www.instagram.com/hyu_ni1_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>&nbsp;<img src="https://img.shields.io/badge/gmail-CE493B?style=flat-square&logo=gmail&logoColor=white"/>
 
 <!--
