@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Kang%20Hyun&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Hyun's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 
 ## 🛠Tech Stack🛠
 <img src="https://img.shields.io/badge/Java-4C7491?style=flat&logo=Java&logoColor=white"/>&nbsp
