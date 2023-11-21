@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Hyun's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 
 ## 🛠Tech Stack🛠
-<img src="https://img.shields.io/badge/Java-4C7491?style=flat&logo=Java&logoColor=white"/>
 
 <!--
 **hyunnn12/hyunnn12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
