@@ -27,7 +27,7 @@
 <br>
 <br>
 <br>
-## 💪Problem Solving
+## 💪Problem Solving💪
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ssk05112)](https://solved.ac/hyunnn12)<br/>
  
 </div>
